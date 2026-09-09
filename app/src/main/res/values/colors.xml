@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D5</color>
+    <color name="primary_light">#8B85FF</color>
+    <color name="secondary">#00D9FF</color>
+    <color name="secondary_dark">#00B8D4</color>
+
+    <!-- Background & Surface -->
+    <color name="background_dark">#0A0E21</color>
+    <color name="surface_dark">#1D1F33</color>
+    <color name="surface_elevated">#262940</color>
+    <color name="card_background">#1D1F33</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B3C5</color>
+    <color name="text_hint">#6B6E80</color>
+
+    <!-- Risk Level Colors -->
+    <color name="risk_safe">#00E676</color>
+    <color name="risk_safe_bg">#1A3D2A</color>
+    <color name="risk_suspicious">#FFAB40</color>
+    <color name="risk_suspicious_bg">#3D3320</color>
+    <color name="risk_dangerous">#FF5252</color>
+    <color name="risk_dangerous_bg">#3D1A1A</color>
+
+    <!-- Status -->
+    <color name="https_secure">#00E676</color>
+    <color name="http_insecure">#FF5252</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary_start">#6C63FF</color>
+    <color name="button_primary_end">#8B85FF</color>
+    <color name="button_secondary_start">#00B8D4</color>
+    <color name="button_secondary_end">#00D9FF</color>
+    <color name="button_tertiary_start">#37474F</color>
+    <color name="button_tertiary_end">#455A64</color>
+
+    <!-- Misc -->
+    <color name="divider">#2A2D42</color>
+    <color name="ripple_light">#33FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="overlay_dark">#CC0A0E21</color>
+</resources>
